@@ -1,3 +1,7 @@
+
+//Nombre: Ponto Andres Moreno
+//Codigo Estudiante: 202224525
+
 package uniandes.dpoo.taller4.GUI;
 
 import javax.swing.JFrame;
